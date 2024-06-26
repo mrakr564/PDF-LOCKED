@@ -4,7 +4,7 @@
 
 
 # Description:
-GitHub Usage Tool: PDF Lock is a powerful utility designed to enhance security and control over PDF documents within GitHub repositories. This tool integrates seamlessly with GitHub, offering robust features tailored for managing sensitive or proprietary PDF files shared on the platform.
+PDF Lock is a powerful utility designed to enhance security and control over PDF documents. This tool  managing sensitive or proprietary PDF files.
 
 
 
