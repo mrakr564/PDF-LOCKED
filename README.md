@@ -17,7 +17,7 @@ Parrot OS
 git clone https://github.com/mrakr564/PDF-LOCKED.git
 ```
 ```bash
-cd PDF-LOKED
+cd PDF-LOCKED
 ```
 ```bash
 pip3 install -r requirements.txt
